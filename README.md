@@ -91,12 +91,6 @@ Or drag and drop the folder into [vercel.com](https://vercel.com) — no configu
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your app here after deployment)*
-> Tip: Press `F12` → Toggle device toolbar to capture mobile view too.
-
----
 
 ## 🎯 What I Learned
 
