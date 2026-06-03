@@ -111,9 +111,7 @@ Or drag and drop the folder into [vercel.com](https://vercel.com) — no configu
 
 ## 👨‍💻 Author
 
-**Muhammad Ahmed**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+**Imtishal Abid**
 
 ---
 
