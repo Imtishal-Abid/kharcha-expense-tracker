@@ -8,7 +8,7 @@ A clean, responsive expense tracking web app built with pure HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-👉 **[View Live App](https://your-app-link.vercel.app)** ← *(replace with your Vercel link)*
+👉 **[View Live App](https://kharcha-expense-tracker-jet.vercel.app/)** 
 
 ---
 
